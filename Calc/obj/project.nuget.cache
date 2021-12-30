@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R5eL2itgRQkZalqJ6Z+UH82wiT2nOai+vcqCCQpTel+5gmt3/z0y7qUoWKELAHb6tP1DK51ty6L+qszxim8pdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\santra\\source\\repos\\Calc\\Calc\\Calc.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santra\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
