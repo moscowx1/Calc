@@ -1,0 +1,9 @@
+.ionide
+
+.vs
+.idea
+.vscode
+
+bin
+obj
+packages
